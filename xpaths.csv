@@ -1,0 +1,16 @@
+name,xpath
+login-email-input,//*[@id="1-email"]
+login-password-input,//*[@id="custom-login-container"]/div/div/form/div/div/div/div/div[2]/div[2]/span/div/div/div/div/div/div/div/div/div[2]/div[3]/div[2]/div/div/input
+login-button,//*[@id="custom-login-container"]/div/div/form/div/div/div/button
+section-home,//*[@id="nav-home"]
+section-content,//*[@id="nav-content"]
+section-pages,//*[@id="nav-pages"]
+section-assets,//*[@id="nav-media"]
+section-models,//*[@id="nav-models"]
+section-reports,//*[@id="nav-reports"]
+section-settings,//*[@id="nav-settings"]
+models-content-button,//*[@id="ContentModels"]
+models-add-content-button,//*[@id="contentModelContainer"]/div/section/div[1]/div[2]/ul/li[1]/a
+models-add-content-flyout-title,//*[@id="definitionSettingsFlyout"]/div[1]/h3
+models-add-content-flyout-name-input,//*[@id="definitionSettingsFlyout"]/div[2]/div/div[1]/div[2]/input
+models-add-content-flyout-save-button,//*[@id="saveDefinitionSettings"]
